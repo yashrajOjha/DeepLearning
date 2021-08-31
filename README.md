@@ -1,2 +1,2 @@
 # DeepLearning
-5th Sem - Deep Learning
+Posting what I have learnt so far in ML and DL.
